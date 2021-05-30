@@ -4,9 +4,8 @@
 	background-attachment: fixed;
 	width: 100%;
 	height:755px;
-
-
 }
+
 .hearderset{
 	padding-top: 250px;
 	box-sizing: borderbox;
@@ -54,11 +53,28 @@ color: #6c757!important;
 
 
 }
+.book{
+	height: 300px;
+}
+.book h3{
+	padding-top: 35px; 
+	font-size:25px;
+    font-weight: bold; 
+}
+.book h5{
+	padding-top: 10px;
+
+}
+.book p{
+	padding-top: 25px;
+	font-size: 22px;
+
+}
 .aboutus{
 	height:250px;
 }
 .aboutus h1{
-	padding: 50px 0px 0px;
+	padding: 100px 0px 0px;
 	font-size: 50 px;
 	 font-weight: bold;
 }
