@@ -1,9 +1,10 @@
+
 .bgimg{
 	background-image: url('../img/body.jpg');
 	background-size: 100% 100%;
 	background-attachment: fixed;
 	width: 100%;
-	height:755px;
+	height:695px;
 }
 
 .hearderset{
@@ -148,6 +149,15 @@ color: #6c757!important;
 
 }
 @media(max-width: 479px){
+	.bgimg{
+	background-image: url('../img/body.jpg');
+	background-size: 100% 100%;
+	background-attachment: fixed;
+	width: 100%;
+	height:715px;
+
+
+}
 .hearderset h2{
 	font-size: 22px;
 }
@@ -156,7 +166,7 @@ color: #6c757!important;
 	font-weight: bold;
 }
 .ourservices{
-	height:1000px;
+	height:1150px;
 
 }
 
@@ -172,15 +182,7 @@ color: #6c757!important;
 .contactus{
 	height: 190px;
 }
-.bgimg{
-	background-image: url('../img/body.jpg');
-	background-size: 100% 100%;
-	background-attachment: fixed;
-	width: 100%;
-	height:670px;
 
-
-}
 }
 
 	

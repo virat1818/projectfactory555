@@ -1,0 +1,297 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"pa",
+				"padding\tproperty"
+			],
+			[
+				"min",
+				"min-width\tproperty"
+			],
+			[
+				"d",
+				"display\tproperty"
+			],
+			[
+				"al",
+				"alt\tAttr"
+			],
+			[
+				"pad",
+				"padding-left\tproperty"
+			],
+			[
+				"mar",
+				"margin\tproperty"
+			],
+			[
+				"text",
+				"text-decoration\tproperty"
+			],
+			[
+				"in",
+				"inline-block\tdisplay"
+			],
+			[
+				"list",
+				"list-style-type\tproperty"
+			],
+			[
+				"tex",
+				"text-align\tproperty"
+			],
+			[
+				"fl",
+				"flex\tproperty"
+			],
+			[
+				"alignm",
+				"align-items\tproperty"
+			],
+			[
+				"box-",
+				"box-sizing\tproperty"
+			],
+			[
+				"h",
+				"h1\tTag"
+			],
+			[
+				"js",
+				"js-scroll-trigger"
+			],
+			[
+				"navbar",
+				"navbar-collapse"
+			],
+			[
+				"font",
+				"font-size\tproperty"
+			],
+			[
+				"max",
+				"max-width\tproperty"
+			],
+			[
+				"f",
+				"footer\tTag"
+			],
+			[
+				"wi",
+				"width\tproperty"
+			],
+			[
+				"fi",
+				"figcaption\tTag"
+			],
+			[
+				"col",
+				"col-md-4"
+			],
+			[
+				"S",
+				"SECTION\tTag"
+			],
+			[
+				"margi",
+				"margin-top\tproperty"
+			],
+			[
+				"col-",
+				"col-lg-4"
+			],
+			[
+				"s",
+				"section\tTag"
+			],
+			[
+				"back",
+				"background-attachment\tproperty"
+			],
+			[
+				"bac",
+				"background-size\tproperty"
+			],
+			[
+				"ba",
+				"background-image\tproperty"
+			],
+			[
+				"l",
+				"li\tTag"
+			],
+			[
+				"di",
+				"div\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/user/Documents/1st website/img/body.jfif",
+		"/C/Users/user/Documents/ECOMMERCE/style.css",
+		"/C/Users/user/Documents/ECOMMERCE/index.html",
+		"/C/Users/user/Documents/website/css/style.css",
+		"/C/Users/user/Documents/1st website/img/body.jpg",
+		"/C/Users/user/Documents/website/index.html",
+		"/C/Users/user/Documents/1st website/img/project/homeautomation.png",
+		"/C/Users/user/Desktop/1st website.html",
+		"/C/Users/user/Documents/1st website/css.css"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
